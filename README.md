@@ -1,4 +1,8 @@
 # Refactor
+
+### Starter Code Provided 
+https://github.com/coding-boot-camp/urban-octo-telegram.git
+Odd numbered challenges prestarted code is provided in order for the pupil refactor and accomodate according to acceptance/grading criteria. 
 ### Challenge Elements
 
 Challenges adhere to a format that's commonly used by software development teams that use **agile project management** to manage their work. Practicing this will prepare you for the workflows you'll experience as a professional full-stack web developer. 
